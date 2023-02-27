@@ -3,9 +3,8 @@ const ext= StyleSheet.create({
     container:{
         backgroundColor:"red"
     },
-
     safestyle:{
-        flex:1, backgroundColor:'#4FA7FE', margin: 16
+        flex:1, backgroundColor:'lightgreen', margin: 16
     },
     view1style:{ 
         flex:0.5, alignItems:'center',  marginTop:50
@@ -18,7 +17,7 @@ const ext= StyleSheet.create({
         flex:0.5, alignItems:'center',justifyContent:'flex-end'
     },
     text3style:{
-        backgroundColor:'black', color:'green', borderRadius:8,width:106, fontSize:43,marginBottom:16
+        backgroundColor:'black', color:'green', borderRadius:8,width:106, fontSize:35,marginBottom:16
     }
 
 })
